@@ -1,0 +1,12 @@
+Error: Cannot retrieve gps Information. 
+
+Wifi No.1:
+ Channel: 6
+ Name: TP-LINK_7640
+ Encryption: WPA1PSKWPA2PSK (Private)
+ SignalStrength: 18 (Poor)
+Wifi No.2:
+ Channel: 6
+ Name: Fergus_House_Wi-Fi
+ Encryption: NONE (Public)
+ SignalStrength: 60 (Good)
